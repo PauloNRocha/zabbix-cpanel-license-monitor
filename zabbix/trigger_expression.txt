@@ -1,0 +1,1 @@
+last(/<nome-do-host>/licenca_cpanel_monitor.sh)>32
